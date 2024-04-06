@@ -1,7 +1,7 @@
 
 ## GCEKS Event Sharing Site 
 
-![Screenshot (587)](https://github.com/YashDhumke/GCEK-S-Event-Sharing-Application/assets/89930129/715c6aef-ef56-421e-99ee-7e98c70b24a7)
+![Screenshot (587)edited](https://github.com/YashDhumke/GCEK-S-Event-Sharing-Application/assets/89930129/3f4d0459-37d4-4670-b588-383e8a50a744)
 
 First, run the development server:
 
@@ -12,8 +12,6 @@ yarn dev
 # or
 pnpm dev
 ```
-
-![Screenshot (587)edited](https://github.com/YashDhumke/GCEK-S-Event-Sharing-Application/assets/89930129/3f4d0459-37d4-4670-b588-383e8a50a744)
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
