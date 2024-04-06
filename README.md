@@ -1,6 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## GCEKS Event Sharing Site 
+
+![Screenshot (587)](https://github.com/YashDhumke/GCEK-S-Event-Sharing-Application/assets/89930129/715c6aef-ef56-421e-99ee-7e98c70b24a7)
 
 First, run the development server:
 
@@ -16,19 +17,21 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Key Features of Project - 
 
-To learn more about Next.js, take a look at the following resources:
+- Event Discovery: Students can easily browse through upcoming events, including seminars, workshops, cultural events, sports meets, and more, all organized in a user-friendly interface.
+  
+- Event Submission: The platform allows students to submit details of events they are organizing or aware of, providing a space for both official college events and student-led initiatives to gain visibility.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-Event Details: Each event listing includes essential information such as date, time, venue, organizer details, and a brief description, enabling students to make informed decisions about which events to attend.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+-Interactive Features: Students can interact with event listings by expressing their interest, RSVPing, leaving comments, and sharing events with their peers via social media integration.
 
-## Deploy on Vercel
+-Personalized Experience: Users can create accounts to personalize their event browsing experience, receive notifications about upcoming events, and track their event participation history.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+-Administration Panel: An admin panel allows designated administrators to manage event submissions, moderate content, and ensure the integrity and quality of the platform.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+-Mobile Responsiveness: The site is fully responsive, ensuring seamless access and usability across various devices, including smartphones, tablets, and desktop computers.
+
+
