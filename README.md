@@ -13,24 +13,22 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Screenshot (587)edited](https://github.com/YashDhumke/GCEK-S-Event-Sharing-Application/assets/89930129/3f4d0459-37d4-4670-b588-383e8a50a744)
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
 
 ## Key Features of Project - 
 
-- Event Discovery: Students can easily browse through upcoming events, including seminars, workshops, cultural events, sports meets, and more, all organized in a user-friendly interface.
-  
-- Event Submission: The platform allows students to submit details of events they are organizing or aware of, providing a space for both official college events and student-led initiatives to gain visibility.
+-Event Discovery: Students can easily browse through upcoming events, including seminars, workshops, cultural events, sports meets, and more, all organized in a user-friendly interface.
+
+-Event Submission: The platform allows students to submit details of events they are organizing or aware of, providing a space for both official college events and student-led initiatives to gain visibility.
 
 -Event Details: Each event listing includes essential information such as date, time, venue, organizer details, and a brief description, enabling students to make informed decisions about which events to attend.
 
 -Interactive Features: Students can interact with event listings by expressing their interest, RSVPing, leaving comments, and sharing events with their peers via social media integration.
 
 -Personalized Experience: Users can create accounts to personalize their event browsing experience, receive notifications about upcoming events, and track their event participation history.
-
--Administration Panel: An admin panel allows designated administrators to manage event submissions, moderate content, and ensure the integrity and quality of the platform.
 
 -Mobile Responsiveness: The site is fully responsive, ensuring seamless access and usability across various devices, including smartphones, tablets, and desktop computers.
 
